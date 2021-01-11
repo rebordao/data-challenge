@@ -14,8 +14,7 @@ linkcolor: blue
 
 One of our hypothetical customers produces consumer goods and asked for
 our help. They provided us with some datasets and our objective is to derive
-insights that can add value to their business. Due to confidentiality
-reasons we don't know their sector and products.
+insights that can add value to their business.
 
 ## Datasets
 
@@ -37,7 +36,7 @@ wealth and basic household demographics;
 There is a data dictionary file that describes the data variables,
 schema and meanings (`data_dictionary.pdf`).
 
-The 2nd dataset was processed so that the variables are consistent across time.
+The second dataset was processed so that the variables are consistent across time.
 
 ## Your Task
 
@@ -45,8 +44,8 @@ Use regression, classification and/or clustering methods to derive insights
 that can support our mission. If you want you can use more than one of these
 approaches.
 
-Execute your approach in Python using a Jupiter Notebook. Send us the notebook 
-source code and any file that was generated during this task.
+Execute your approach in Python using a Jupiter Notebook. You'll have to send us
+this notebook later.
 
 In the report discuss your methodology and justify your choices for the feature
 selection and for the algorithms. Share the insights that you obtained from the
@@ -57,7 +56,7 @@ algorithmic approach; storytelling-, technical-, reporting- and communication-sk
 ## Instructions
 
 - Once you receive the assignment you have 72 hours to return it.
-- Please do not spend more than 2 or 3h in this data challenge.
+- Please do not spend more than 2 or 3h in this challenge.
 - We recommend that you start by defining the quick wins and how the reader
 will perceive/evaluate your report. Then plan accordingly.
-- Email your code and report to the person that sent you the technical test.
+- Email your notebook to the person that sent you the technical test.
